@@ -1,0 +1,8 @@
+.vscode/
+bin/
+*.zip
+pdfs/
+slides/
+bibliography/
+*.hs
+__pycache__/
