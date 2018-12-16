@@ -8,7 +8,7 @@ Algorithms written in the classes of Artificial Intelligence
 [year]: https://img.shields.io/badge/year-2018.3-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA014--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-3--1--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.10.11-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.11.06-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -22,9 +22,16 @@ Algorithms written in the classes of Artificial Intelligence
 - **04/10/2018** *(Theory)*: Adversarial Search.
 - **09/10/2018** *(Theory)*: Expectimax and Monte Carlo Tree Search.
 - **11/10/2018** *(Laboratory)*: [Monte Carlo Tree Search implementation].
+- **16/10/2018** *(Theory)*: Markov Decision Process *(part 1)*.
+- **23/10/2018** *(Theory)*: **First test**.
+- **25/10/2018** *(Theory)*: Markov Decision Process *(part 2)*.
+- **30/10/2018** *(Theory)*: Reinforcement Learning *(part 1)*.
+- **01/11/2018** *(Theory)*: Reinforcement Learning *(part 2)*.
+- **06/11/2018** *(Laboratory)*: [MDP and Q-Learning implementation].
 
 [DFS/BFS/A* implementation]: classes/laboratory/2018.09.27/
 [Monte Carlo Tree Search implementation]: classes/laboratory/2018.10.11/
+[MDP and Q-Learning implementation]: classes/laboratory/2018.06.11/
 
 ## Build instructions
 
