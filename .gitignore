@@ -6,3 +6,4 @@ slides/
 bibliography/
 *.hs
 __pycache__/
+*.pdf
